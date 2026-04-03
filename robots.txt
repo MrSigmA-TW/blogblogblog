@@ -1,0 +1,9 @@
+User-agent: ChatGPT-User
+Disallow: /
+User-agent: GPTBot
+Disallow: /
+User-agent: CCBot
+Disallow: /
+User-agent: *
+Disallow:
+Sitemap: https://MrSigmA-TW.githib.io/blogblogblog/sitemap.xml
